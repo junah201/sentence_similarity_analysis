@@ -1,0 +1,4 @@
+JPype1-0.5.7-cp27-none-win_amd64.whl
+konlpy
+scikit-learn
+numpy
