@@ -26,7 +26,7 @@ def calculate_cosine_similarity(morphs1, morphs2):
 def lambda_handler(event, context):
     # CORS 헤더 설정
     headers = {
-        'Access-Control-Allow-Origin': 'http://127.0.0.1:5500',
+        'Access-Control-Allow-Origin': 'https://junah201.github.io',
         'Access-Control-Allow-Methods': 'OPTIONS, POST',
         'Access-Control-Allow-Headers': 'Content-Type',
         'Access-Control-Allow-Credentials': 'true',
